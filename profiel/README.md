@@ -11,7 +11,7 @@ I love reading books
 u can regard my ouylook as this:
 
 
-![lindan](D:\git-bash-working\Newfile\lindan.jpg)
+![lindan](assets/lindan.jpg)
 
 
 
